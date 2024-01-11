@@ -1,6 +1,6 @@
 # IEEE_TGRS_CLOLN
-[TGRS 2024]The code in this toolbox implements the proposed network CLOLN in "Channel-Layer-Oriented Lightweight Spectral-Spatial Network for Hyperspectral Image Classification". <br />
-and the other two compared methods called Res-LS2CM and Ghostnet in "A lightweight spectral-spatial convolution module for hyperspectral image classification" and "Ghostnet for hyperspectral image classification", respectively. Parts of the code derive from [HUAWEI Noah's Ark Lab](https://github.com/huawei-noah)
+[TGRS 2024]The codes in this repository implement the proposed network CLOLN in "Channel-Layer-Oriented Lightweight Spectral-Spatial Network for Hyperspectral Image Classification". <br />
+The other two compared methods, called Res-LS2CM and Ghostnet in "A lightweight spectral-spatial convolution module for hyperspectral image classification" and "Ghostnet for hyperspectral image classification", are also implemented in the same environment, respectively. Parts of the code derive from [HUAWEI Noah's Ark Lab](https://github.com/huawei-noah)
 
 
 # Citation
