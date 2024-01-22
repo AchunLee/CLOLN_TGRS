@@ -5,15 +5,15 @@ The other two compared methods, called Res-LS2CM and Ghostnet in "A lightweight 
 
 # Citation
 **Please kindly cite the paper and star this repository if these codes are useful and helpful for your research.**<br />
-C. Li, B. Rasti, X. Tang, P. Duan, J. Li and Y. Peng, "Channel-Layer-Oriented Lightweight Spectral-Spatial Network for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3350055. <br />
+C. Li, B. Rasti, X. Tang, P. Duan, J. Li and Y. Peng, "Channel-Layer-Oriented Lightweight Spectral–Spatial Network for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-14, 2024, Art no. 5504214, doi: 10.1109/TGRS.2024.3350055. <br />
 <pre><code>@ARTICLE{Li_CLOLN,
   author={Li, Chunchao and Rasti, Behnood and Tang, Xuebin and Duan, Puhong and Li, Jun and Peng, Yuanxi},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Channel-Layer-Oriented Lightweight Spectral-Spatial Network for Hyperspectral Image Classification}, 
   year={2024},
-  volume={},
+  volume={62},
   number={},
-  pages={1-1},
+  pages={1-14},
   doi={10.1109/TGRS.2024.3350055}}
 </code></pre>
   
